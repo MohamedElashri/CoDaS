@@ -33,7 +33,7 @@ int main ()
 }
 
 
-//*
+/*
 #include <omp.h>
 static long num_steps = 100000; double step;
 void main ()
@@ -47,4 +47,4 @@ sum = sum + 4.0/(1.0+x*x);
 }
 pi = step * sum;
 }
-*//
+*/
