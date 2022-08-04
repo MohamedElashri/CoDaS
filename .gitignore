@@ -1,0 +1,9 @@
+# ignore vscode folder
+.vscode
+
+# ignore .git folder
+.git
+
+# ignore -o files
+*.o
+
