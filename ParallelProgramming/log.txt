@@ -1,3 +1,0 @@
-Number of processes: 16
-Pi: 3.1423096
-Time: 8.323876857757568
